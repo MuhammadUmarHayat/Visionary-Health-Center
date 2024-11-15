@@ -1,0 +1,71 @@
+Here’s a list of common lab tests performed in an eye care hospital:
+
+### 1. **Visual Acuity Test**
+   - **Purpose**: Measures how well a patient can see at various distances using an eye chart.
+   - **Procedure**: Patients read letters from a chart placed at a set distance.
+
+### 2. **Refraction Test**
+   - **Purpose**: Determines the lens prescription needed to correct refractive errors like myopia (nearsightedness), hyperopia (farsightedness), astigmatism, or presbyopia.
+   - **Procedure**: Patients look through a phoropter device, and the optometrist adjusts lenses to find the best fit.
+
+### 3. **Slit Lamp Examination**
+   - **Purpose**: Examines the anterior segment of the eye, including the cornea, iris, lens, and eyelids.
+   - **Procedure**: A slit lamp (biomicroscope) shines a beam of light into the eye, allowing the ophthalmologist to examine it in detail.
+
+### 4. **Tonometry (Intraocular Pressure Test)**
+   - **Purpose**: Measures the pressure inside the eye to detect glaucoma.
+   - **Procedure**: A small puff of air is directed at the eye, or a tonometer is placed gently on the surface of the eye to measure pressure.
+
+### 5. **Optical Coherence Tomography (OCT)**
+   - **Purpose**: Captures high-resolution images of the retina and optic nerve to diagnose conditions like macular degeneration, diabetic retinopathy, and glaucoma.
+   - **Procedure**: A scanning device takes cross-sectional images of the retina.
+
+### 6. **Dilated Eye Exam**
+   - **Purpose**: Examines the retina, optic nerve, and macula for signs of diseases such as diabetic retinopathy, macular degeneration, or glaucoma.
+   - **Procedure**: Eye drops are used to dilate the pupils, allowing the doctor to see more of the eye.
+
+### 7. **Fundus Photography**
+   - **Purpose**: Takes detailed images of the back of the eye (fundus), including the retina, optic disc, and macula.
+   - **Procedure**: A specialized camera captures the image after pupil dilation.
+
+### 8. **Fluorescein Angiography**
+   - **Purpose**: Diagnoses retinal conditions such as diabetic retinopathy and macular degeneration by examining blood flow in the retina.
+   - **Procedure**: A dye (fluorescein) is injected into the arm, and a camera takes images of the retina as the dye circulates through the eye's blood vessels.
+
+### 9. **Amsler Grid Test**
+   - **Purpose**: Detects problems in the central vision caused by macular degeneration.
+   - **Procedure**: Patients look at a grid and report any distortions, such as wavy lines or missing areas.
+
+### 10. **Pachymetry**
+   - **Purpose**: Measures the thickness of the cornea, which helps in diagnosing glaucoma or evaluating corneal health before surgery.
+   - **Procedure**: A probe lightly touches the surface of the cornea to measure its thickness.
+
+### 11. **Corneal Topography**
+   - **Purpose**: Maps the curvature of the cornea to assess conditions like keratoconus and to prepare for refractive surgery.
+   - **Procedure**: A special camera captures detailed images of the corneal surface.
+
+### 12. **Ocular Ultrasound**
+   - **Purpose**: Provides detailed images of the structures inside the eye, such as the retina, optic nerve, and lens.
+   - **Procedure**: A probe is placed on the eyelid or eye surface after applying gel, generating an ultrasound image.
+
+### 13. **Electroretinography (ERG)**
+   - **Purpose**: Measures the electrical responses of the retina’s light-sensitive cells (rods and cones).
+   - **Procedure**: Electrodes are placed on the cornea, and light flashes stimulate the retina to measure its electrical activity.
+
+### 14. **Gonioscopy**
+   - **Purpose**: Examines the drainage angle of the eye to assess for glaucoma.
+   - **Procedure**: A special contact lens with a mirror is placed on the eye, and a slit lamp is used to visualize the drainage angle.
+
+### 15. **Color Vision Test**
+   - **Purpose**: Determines if the patient has color blindness or difficulty distinguishing colors.
+   - **Procedure**: Patients view a series of colored dot patterns and identify the numbers or shapes embedded in them.
+
+### 16. **Visual Field Test (Perimetry)**
+   - **Purpose**: Measures peripheral vision to detect conditions like glaucoma and brain tumors affecting vision.
+   - **Procedure**: The patient presses a button when they see lights in their peripheral vision while looking straight ahead.
+
+### 17. **Retinal Thickness Analysis**
+   - **Purpose**: Assesses the thickness of the retina, useful for diagnosing and monitoring macular diseases.
+   - **Procedure**: Usually performed using OCT technology.
+
+These tests form the backbone of diagnostic and treatment protocols in eye care centers, helping diagnose and manage a wide range of ocular conditions.
